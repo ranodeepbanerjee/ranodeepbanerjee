@@ -28,3 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranodeepbanerjee&show_icons=true&locale=en" alt="ranodeepbanerjee" /></p>
 
+[![@ranodeepbanerjee's Holopin board](https://holopin.io/api/user/board?user=ranodeepbanerjee)](https://holopin.io/@ranodeepbanerjee)
