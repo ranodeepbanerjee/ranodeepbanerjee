@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranodeepbanerjee" alt="ranodeepbanerjee" /></a> </p>
 
 [![@ranodeepbanerjee's Holopin board](https://holopin.io/api/user/board?user=ranodeepbanerjee)](https://holopin.io/@ranodeepbanerjee)
+<a href="https://novu.co/contributors/ranodeepbanerjee/"><img src="https://contributors.novu.co/profiles/ranodeepbanerjee-small.jpg" height="150" width="450" alt="" /></a>
 - 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **Cloud computing**
