@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ranodeep Banerjee</h1>
 <h3 align="center">A passionate frontend developer from Kolkata Pursing Computer Science and Engineering from Techno India College of Technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranodeepbanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="ranodeepbanerjee" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ranodeepbanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="ranodeepbanerjee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranodeepbanerjee&ryo-ma&theme=radical&row=2&column=3" alt="ranodeepbanerjee" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranodeepbanerjee&ryo-ma&theme=radical&row=2&column=3" alt="ranodeepbanerjee" /></a> </p>
 
 [![@ranodeepbanerjee's Holopin board](https://holopin.io/api/user/board?user=ranodeepbanerjee)](https://holopin.io/@ranodeepbanerjee)
 <a href="https://novu.co/contributors/ranodeepbanerjee/"><img src="https://contributors.novu.co/profiles/ranodeepbanerjee-small.jpg" height="150" width="450" alt="" /></a>
