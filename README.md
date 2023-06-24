@@ -16,7 +16,7 @@
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=646216f0ee95e8c42c61" alt="Appwrite Cloud Card" />
 </a> </p>
 
-
+[![ranodeepbanerjee's GitHub | Stats](https://stats.quine.sh/ranodeepbanerjee/github?theme=light)](https://quine.sh)
                                                                                                    
 - 🔭 I’m currently working on **machine learning**
 
