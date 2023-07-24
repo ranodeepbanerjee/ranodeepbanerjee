@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ranodeep Banerjee</h1>
-<h3 align="center">A passionate machine leanring and frontend developer from Kolkata Pursing Computer Science and Engineering from Techno India College of Technology.</h3>
+<h3 align="center">A passionate machine learning and frontend developer from Kolkata Pursing Computer Science and Engineering from Techno India College of Technology.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ranodeepbanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="ranodeepbanerjee" /> </p>
 
